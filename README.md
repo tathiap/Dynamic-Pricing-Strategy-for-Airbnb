@@ -1,9 +1,9 @@
 # Dynamic-Pricing-Strategy-for-Airbnb
 
-##Overview
+## Overview
 An Airbnb property management firm wants to develop a dynamic pricing strategy to optimize their rental pricing based on various factors like demand, location, property type, seasonality, competitor pricing, and market trends. The goal is to adjust the price of listings in real-time, ensuring maximum occupancy while also maximizing revenue for hosts.
 
-##Objective
+## Objective
 * To create a dynamic pricing model that adjusts Airbnb rental prices based on different factors such as market demand, local events, historical data, and competitor pricing.
 * To analyze how pricing affects occupancy rates, total revenue, and customer satisfaction.
 * To provide data-driven insights to property managers and hosts about when to raise or lower their prices, and by how much, to stay competitive.
